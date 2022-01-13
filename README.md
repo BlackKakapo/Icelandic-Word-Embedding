@@ -30,7 +30,7 @@ The text is pre processed and cleaned.
 
 #
 
-### Some test with SG_300_20_15 
+### Some tests with SG_300_20_15 
 
 
 ```python

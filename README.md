@@ -43,7 +43,7 @@ resultQuery = model.wv.most_similar('**WORD**')
 for result in resultQuery:
     print(result)
     
-In: rúmenía
+In: spánn
 Out:
 ('ítalía', 0.8026369214057922)
 ('frakkland', 0.7354145646095276)
@@ -56,7 +56,7 @@ Out:
 ('rúmenía', 0.644788384437561)
 ('ungverjaland', 0.6446587443351746)
 
-In: spánn
+In: rúmenía
 Out:
 ('búlgaría', 0.806666374206543)
 ('bosnía', 0.7892762422561646)

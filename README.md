@@ -19,7 +19,7 @@ The text is pre processed and cleaned.
 #
 
 | Method | Size | Min_count | Window | Download | Size | 
-| ------ |----- | --------- | ------ | ---- | ---- | --------- | ----- |
+| ------ |----- | --------- | ------ | ---- | ---- |
 | CBOW | 300 | 20 | 5 | <a href="">Download</a> |  GB |
 | CBOW | 300 | 20 | 15 | <a href="">Download</a> |  GB |
 | Skip-Gram | 300 | 20 | 5 | <a href="">Download</a> |  GB |

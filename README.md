@@ -24,8 +24,8 @@ The text is pre processed and cleaned.
 | CBOW | 300 | 20 | 15 | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/ERcFWiNOZOhFg-fMaM0Z2soBzNDGVZLG1lknPFkyNiJakg?e=6OtOul">Download</a> |  457 MB |
 | Skip-Gram | 300 | 20 | 5 | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/Ec08q7oNz5NMnJPRAHO6G0oBmogzgKUSjOmbrSLruo48dw?e=B4nVNM">Download</a> |  457 MB |
 | Skip-Gram | 300 | 20 | 15 | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/EZJOf2YeOqtFqbZhN1GdopoBeTGqQ7scju-o38Tu9nIqTA?e=wzqJ2R">Download</a> |  457 MB |
-| FastText (SG) | 300 | 20 | 5 | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/ERoIoR7FRfhHnxDt1mslLTUBmMeyqegPHc1gA7cdmRnr3A?e=gh2cnR">Download</a> | 2.21 GB |
-| FastText (SG) | 300 | 20 | 15 | <a href="">Download</a> | 457 MB |
+| FastText (SG) | 300 | 20 | 5 | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/ERoIoR7FRfhHnxDt1mslLTUBmMeyqegPHc1gA7cdmRnr3A?e=gh2cnR">Download</a> | 2.37 GB |
+| FastText (SG) | 300 | 20 | 15 | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/ERPYoxAh371JuVeoncmhVREBxgLHLZXj7s58t0mHqbGs7A?e=9qmVD0">Download</a> | 2.37 GB |
 
 
 #

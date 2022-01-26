@@ -8,29 +8,29 @@ These vectors was trained with 3 different methods (CBOW, Skip-Gram, FastText) f
 
 #
 
-### About Dataset
+### About Dataset 
 The text is pre processed and cleaned.
 
-- 6.010.024 -  Sentences (One of purpose is the sentence need to be bigger than 35 characters, including the spaces) 
-- 104.383.513 -  Words
-- 138.815 - Unique words
-- 17,36 - AVG number of words in sentence
+- 34.001.430 -  Sentences (One of purpose is the sentence need to be bigger than 35 characters, including the spaces) 
+- 509.359.137 -  Words
+- 366.181 - Unique words
+- 14,98 - AVG number of words in sentence
 
 #
 
 | Method | Size | Min_count | Window | Download | Size | 
 | ------ |----- | --------- | ------ | ---- | ---- |
-| CBOW | 300 | 20 | 5 | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/Eeo2DW1Zs1hLrFMEVpOAfmcBFNwbDzZ6lj_iX1a0cDKPJw?e=RAXWtp">Download</a> | 457 MB |
-| CBOW | 300 | 20 | 15 | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/ERcFWiNOZOhFg-fMaM0Z2soBzNDGVZLG1lknPFkyNiJakg?e=6OtOul">Download</a> |  457 MB |
-| Skip-Gram | 300 | 20 | 5 | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/Ec08q7oNz5NMnJPRAHO6G0oBmogzgKUSjOmbrSLruo48dw?e=B4nVNM">Download</a> |  457 MB |
-| Skip-Gram | 300 | 20 | 15 | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/EZJOf2YeOqtFqbZhN1GdopoBeTGqQ7scju-o38Tu9nIqTA?e=wzqJ2R">Download</a> |  457 MB |
-| FastText (SG) | 300 | 20 | 5 | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/ERoIoR7FRfhHnxDt1mslLTUBmMeyqegPHc1gA7cdmRnr3A?e=gh2cnR">Download</a> | 2.37 GB |
-| FastText (SG) | 300 | 20 | 15 | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/ERPYoxAh371JuVeoncmhVREBxgLHLZXj7s58t0mHqbGs7A?e=9qmVD0">Download</a> | 2.37 GB |
+| CBOW | 300 | 20 | 5 | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/Ec2KxXdTc6BGmqlz3qWOwbEBXVlovgbDsEajHjRlQHmZJg?e=su8lvu">Download</a> | 770 MB |
+| CBOW | 300 | 20 | 15 | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/EW9NBIMFHvtJnKBzYr0EGQoBN5ZSMc-f89UwG7ZvXcM3hQ?e=pr5MSp">Download</a> |  770 MB |
+| Skip-Gram | 300 | 20 | 5 | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/EZapSz0ynWNDkNBqU7mO2nsBJ1w8E0p6CxXdYBQE6NGk6A?e=878XZi">Download</a> |  770 MB |
+| Skip-Gram | 300 | 20 | 15 | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/EY9obSjS-4FCj2e8CkbsOKkBMWyGTNapzB_g3nf0MdMrNQ?e=LEOzjm">Download</a> |  770 MB |
+| FastText (SG) | 300 | 20 | 5 | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/EX9vSrfarMFEiapWKQsQzkcBwttb1QsXFhN7qJBNdnH5lw?e=xZwW2p">Download</a> | 2.75 GB |
+| FastText (SG) | 300 | 20 | 15 | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/ETXN0LesJCdMuout30KScRQBfLuWYCardkbf5Vu70HWWqw?e=14hz7j">Download</a> | 2.75 GB |
 
 
 #
 
-### Some tests with SG_300_20_15 
+### Some tests with ICE_SG_300_20_15.model 
 
 
 ```python

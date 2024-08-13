@@ -20,12 +20,12 @@ The text is pre processed and cleaned.
 
 | Method | Size | Min_count | Window | Download | Size | 
 | ------ |----- | --------- | ------ | ---- | ---- |
-| CBOW | 300 | 20 | 5 | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/Ec2KxXdTc6BGmqlz3qWOwbEBXVlovgbDsEajHjRlQHmZJg?e=su8lvu">Download</a> | 770 MB |
-| CBOW | 300 | 20 | 15 | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/EW9NBIMFHvtJnKBzYr0EGQoBN5ZSMc-f89UwG7ZvXcM3hQ?e=pr5MSp">Download</a> |  770 MB |
-| Skip-Gram | 300 | 20 | 5 | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/EZapSz0ynWNDkNBqU7mO2nsBJ1w8E0p6CxXdYBQE6NGk6A?e=878XZi">Download</a> |  770 MB |
-| Skip-Gram | 300 | 20 | 15 | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/EY9obSjS-4FCj2e8CkbsOKkBMWyGTNapzB_g3nf0MdMrNQ?e=LEOzjm">Download</a> |  770 MB |
-| FastText (SG) | 300 | 20 | 5 | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/EX9vSrfarMFEiapWKQsQzkcBwttb1QsXFhN7qJBNdnH5lw?e=xZwW2p">Download</a> | 2.75 GB |
-| FastText (SG) | 300 | 20 | 15 | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/ETXN0LesJCdMuout30KScRQBfLuWYCardkbf5Vu70HWWqw?e=14hz7j">Download</a> | 2.75 GB |
+| CBOW | 300 | 20 | 5 | <a href="https://drive.google.com/file/d/1MXdGRB6la6mC-hA37VssUUurYkCVF72t/view?usp=sharing">Download</a> | 770 MB |
+| CBOW | 300 | 20 | 15 | <a href="https://drive.google.com/file/d/1c9d4IZ2mOdMBNJnpwoC5tjiohG-1qpat/view?usp=sharing">Download</a> |  770 MB |
+| Skip-Gram | 300 | 20 | 5 | <a href="https://drive.google.com/file/d/1qnQTRYWg4DaPtO6dDef290Lb2ppqjB0F/view?usp=sharing">Download</a> |  770 MB |
+| Skip-Gram | 300 | 20 | 15 | <a href="https://drive.google.com/file/d/1F39oXsWKIBIx9gQOU4mBq7h0G7HyseeX/view?usp=sharing">Download</a> |  770 MB |
+| FastText (SG) | 300 | 20 | 5 | <a href="https://drive.google.com/file/d/1qnQTRYWg4DaPtO6dDef290Lb2ppqjB0F/view?usp=sharing">Download</a> | 2.75 GB |
+| FastText (SG) | 300 | 20 | 15 | <a href="https://drive.google.com/file/d/1F39oXsWKIBIx9gQOU4mBq7h0G7HyseeX/view?usp=sharing">Download</a> | 2.75 GB |
 
 
 #

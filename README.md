@@ -23,8 +23,8 @@ The text is pre processed and cleaned.
 | CBOW | 300 | 20 | 5 | <a href="https://drive.google.com/file/d/1MXdGRB6la6mC-hA37VssUUurYkCVF72t/view?usp=sharing">Download</a> | 770 MB |
 | CBOW | 300 | 20 | 15 | <a href="https://drive.google.com/file/d/1c9d4IZ2mOdMBNJnpwoC5tjiohG-1qpat/view?usp=sharing">Download</a> |  770 MB |
 | Skip-Gram | 300 | 20 | 5 | <a href="https://drive.google.com/file/d/1qnQTRYWg4DaPtO6dDef290Lb2ppqjB0F/view?usp=sharing">Download</a> |  770 MB |
-| Skip-Gram | 300 | 20 | 15 | <a href="https://drive.google.com/file/d/1F39oXsWKIBIx9gQOU4mBq7h0G7HyseeX/view?usp=sharing">Download</a> |  770 MB |
-| FastText (SG) | 300 | 20 | 5 | <a href="https://drive.google.com/file/d/1qnQTRYWg4DaPtO6dDef290Lb2ppqjB0F/view?usp=sharing">Download</a> | 2.75 GB |
+| Skip-Gram | 300 | 20 | 15 | <a href="https://drive.google.com/file/d/1nVIsA6TtmG43gS4c512tPTdlJntu_bbf/view?usp=sharing">Download</a> |  770 MB |
+| FastText (SG) | 300 | 20 | 5 | <a href="https://drive.google.com/file/d/14Xxd20pQOiWhtXQ2sDq5ugLV-dkS-2GV/view?usp=sharing">Download</a> | 2.75 GB |
 | FastText (SG) | 300 | 20 | 15 | <a href="https://drive.google.com/file/d/1F39oXsWKIBIx9gQOU4mBq7h0G7HyseeX/view?usp=sharing">Download</a> | 2.75 GB |
 
 
